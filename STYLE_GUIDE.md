@@ -1,0 +1,1 @@
+Create an HTML file for [New Concept]. Use the Slate/Blue UI palette from our style guide: Tailwind CSS, bg-slate-900 headers with border-blue-600 accents, bg-slate-50 body backgrounds, and Font Awesome icons.
